@@ -1,4 +1,11 @@
-### Hi there 👋
+### About Me
+
+Data Scientist focused on machine and deep learning, NLP, statistical analysis, data acquisition, and data modeling.
+
+### Contact
+
+- [LinkedIn](https://www.linkedin.com/in/andrew-c-muller/)
+- [email](andrew.curry.muller@gmail.com)
 
 <!--
 **MullerAC/MullerAC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
